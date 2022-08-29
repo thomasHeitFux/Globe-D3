@@ -13,4 +13,5 @@ body {
 }
 .country{
     transition: fill .5s;
+    cursor: pointer;
 }
